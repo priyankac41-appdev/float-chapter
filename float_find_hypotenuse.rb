@@ -4,5 +4,4 @@
 # Your output should be a number; for example,
 # 
 # 5.3
-
-
+p Math.sqrt(2.8**2+4.5**2).to_f
